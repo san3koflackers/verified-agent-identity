@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'sanlav'
         required: true
-        default: 'lokie'
+        default: 'sanlav'
       agent_description:
         description: 'sanlav'
         required: true
